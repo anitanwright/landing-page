@@ -1,0 +1,21 @@
+body {
+ margin: 0;
+}
+
+
+.hero {
+  background-color: #9da7eb;
+  height: 35vh;
+  color: rgb(42, 35, 72);
+  font-size: 40px;
+}
+
+.sub-section {
+ background-color: aqua;
+ height: 100vh;
+}
+
+footer {
+background-color: grey;
+height: 40vh;
+}
