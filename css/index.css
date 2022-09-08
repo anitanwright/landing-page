@@ -10,12 +10,34 @@ body {
   font-size: 40px;
 }
 
-.sub-section {
- background-color: aqua;
- height: 100vh;
+.business-nav {
+ display: flex;
+ 
 }
 
-footer {
+.business-nav > div {
+ flex: 1;
+}
+
+.sub-section {
+ background-color: aqua;
+ height: 50vh;
+}
+
+#about-us {
+ background-color: blue;
+ height: 35vh;
+
+}
+
+#products {
+ background-color: blueviolet;
+ height: 35vh;
+
+}
+
+
+#footer {
 background-color: grey;
 height: 40vh;
 }
